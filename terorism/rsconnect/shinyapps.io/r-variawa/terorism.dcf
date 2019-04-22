@@ -1,0 +1,13 @@
+name: terorism
+title: terorism
+username:
+account: r-variawa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 882543
+bundleId: 2030333
+url: https://r-variawa.shinyapps.io/terorism/
+when: 1555961141.86907
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: custom.css|global_terrorism_presentation.html|global_terrorism_presentation.Rmd|terrorism1-compressor.jpg
