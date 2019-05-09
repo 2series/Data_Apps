@@ -1,5 +1,3 @@
-<img src="./image_gallery/dps.png"/>
-
 <a target="_blank" href="#">
   <img src="./image_gallery/ddp.png" alt="Book Cover" width="230" align="left"/>
 </a>
